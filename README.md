@@ -3,14 +3,17 @@ The project aims to create an advanced collaborative assembly system to improve 
 I used BlenderPoc2 to generate synthetic datasets which are devided into training set and validation set. Here are some examples of generated results:
 1）various background：
 ![image](https://github.com/chenyi0916/COBOT/blob/main/cobot_2.png)
+
 2）workstation：
 ![iamge](https://github.com/chenyi0916/COBOT/blob/main/cobot_3.png)
 
 Afterwards, I trained datasets using the Mask R-CNN algorithm based on Detectron2. The following are the predicted results.
 1）real image1：
 ![image](https://github.com/chenyi0916/COBOT/blob/main/cobot_4.png)
+
 2）real image2：
 ![iamge](https://github.com/chenyi0916/COBOT/blob/main/cobot_5.png)
+
 3）real image3：
 ![image](https://github.com/chenyi0916/COBOT/blob/main/cobot_6.png)
 
